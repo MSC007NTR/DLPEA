@@ -3,7 +3,7 @@ The code of "基于动态图注意力与标签传播的实体对齐"
 # Datasets
 源代码是在OpenEA框架的基础上实现的，我们遵循OpenEA相同的设计特点来实现功能，同时保持可扩展性。我们在实现中保留了OpenEA的部分，列出了以下的源代码（连同注释）。
 # code
-|__ run
+“|__ run
 |   |__ args
 |   |   |__ args_15K.json    // config file for 15K benchmark
 |   |   |__ args_100K.json   // config file for 100K benchmark
@@ -37,7 +37,7 @@ The code of "基于动态图注意力与标签传播的实体对齐"
 |   |   |   |__ utils
 |   |   |   |   |__ check.py        // same as OpenEA (with updates)
 |   |   |   |   |__ inference.py    // same as OpenEA (with updates)
-|   |   |   |   |__ util.py         // same as OpenEA
+|   |   |   |   |__ util.py         // same as OpenEA”
 
 # 如何运行
 由于我们采用OpenEA代码库来实现DLPA，运行的方式与使用OpenEA的方式非常相似。
