@@ -1,5 +1,5 @@
 # DLPEA
-The code of "基于动态图注意力与标签传播的实体对齐"
+The code 
 # Datasets
 源代码是在OpenEA框架的基础上实现的，我们遵循OpenEA相同的设计特点来实现功能，同时保持可扩展性。我们在实现中保留了OpenEA的部分，列出了以下的源代码（连同注释）。
 # code<br>
@@ -41,7 +41,7 @@ The code of "基于动态图注意力与标签传播的实体对齐"
 
 # 如何运行
 由于我们采用OpenEA代码库来实现DLPA，运行的方式与使用OpenEA的方式非常相似。
-更具体的复现之后会放出
+
 # Dependencies
 Scipy
 Pandas
